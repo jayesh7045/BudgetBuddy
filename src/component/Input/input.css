@@ -1,0 +1,13 @@
+.custom-input{
+    border-width: 0;
+    border-bottom-width: 1px;
+    width: 100%;
+    padding: 0.5rem 0rem;
+    font-size: 1rem;
+    opacity: 0.8;
+}
+.custom-input:hover{
+    outline: none;
+    opacity: 1;
+    transition: all 2s;
+}
